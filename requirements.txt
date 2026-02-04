@@ -1,0 +1,17 @@
+lark
+langchain
+langchain-community
+langchain-astradb
+langchain-huggingface
+langchain-groq
+sentence-transformers
+pypdf
+python-dotenv
+datasets
+pandas
+numpy
+flask
+prometheus_client
+
+
+## -e .

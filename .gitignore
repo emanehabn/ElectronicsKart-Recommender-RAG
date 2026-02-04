@@ -1,0 +1,11 @@
+venv
+.env
+logs/
+
+*.pyc
+__pycache__/
+
+*.egg-info/
+flipKart/
+notes.txt
+.env
