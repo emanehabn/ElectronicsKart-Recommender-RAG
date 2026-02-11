@@ -60,8 +60,10 @@ Check out the full system — API responses, metrics, dashboards, observability 
 ### 🔹 Demo Video
 
 <p align="center">
-  <video width="800" controls>
-    <source src="Gallery/demo.mp4" type="video/mp4">
-      <em>Watch the flipkart responces.</em>
-  </video>
+  <a href="https://www.youtube.com/watch?v=rcGQfjurzz8" target="_blank">
+    <img src="Gallery/demo_thumbnail.png" alt="Demo Video" width="800"/>
+  </a>
+  <br>
+  <em>Watch the full RAG recommender workflow on YouTube .</em>
 </p>
+
