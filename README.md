@@ -44,7 +44,7 @@ python app.py
 
 Before running the project, make sure to **configure your keys** in a `.env` file.  
 
-You can use `.env.example` as a template:
+You can use `.env.example` as a template.
 
 ---
 
