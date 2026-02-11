@@ -22,7 +22,7 @@ class DataIngestor:
                                          )
     def ingest(self, load_existing=True):
         if load_existing == True:
-            self.vstore
+            return  self.vstore
         docs = DataConverter(cfg.data_path).convert()
 
         lengths = [len(doc.page_content.split()) for doc in docs]
@@ -31,7 +31,7 @@ class DataIngestor:
         
         
         
-        BATCH_SIZE = 16 
+        BATCH_SIZE = 32 
 
         for i in range(0, len(docs), BATCH_SIZE):
             batch = docs[i:i + BATCH_SIZE]
@@ -39,6 +39,6 @@ class DataIngestor:
 
         return self.vstore
     
-if __name__ == "__main__":
+"""if __name__ == "__main__":
     ingestor = DataIngestor()
-    ingestor.ingest(load_existing=False)
+    ingestor.ingest(load_existing=False)"""
