@@ -53,17 +53,7 @@ You can use `.env.example` as a template:
 Check out the full system — API responses, metrics, dashboards, observability and a demo video.
 
 
-### Gallery
-👉 **[Click here](gallery/)**
+**[Click here to watch the workflow gallery](gallery/)**
 
-
-### 🔹 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=rcGQfjurzz8" target="_blank">
-    <img src="Gallery/demo_thumbnail.png" alt="Demo Video" width="800"/>
-  </a>
-  <br>
-  <em>Watch the full RAG recommender workflow on YouTube .</em>
-</p>
+[**▶ Click here to watch the demo on YouTube**](https://www.youtube.com/watch?v=rcGQfjurzz8)
 
