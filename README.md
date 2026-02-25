@@ -53,7 +53,7 @@ You can use `.env.example` as a template.
 Check out the full system — API responses, metrics, dashboards, observability and a demo video.
 
 
-**▶ [Click here to watch the workflow gallery](./gallery/)**
+**▶ [Click here to watch the workflow gallery](./Gallery/)**
 
 [**▶ Click here to watch the demo on YouTube**](https://www.youtube.com/watch?v=rcGQfjurzz8)
 
